@@ -5,7 +5,7 @@ import setuptools
 
 setuptools.setup(
     name='linecolor',
-    version='2017.03.22',
+    version='2017.3.22',
     keywords='command-line-color, colorful output of linux command like tail, cat and ect.',
     description='small tool for colorful output of linux command',
     long_description=open(
